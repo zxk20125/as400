@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IBM-Project.iml" filepath="$PROJECT_DIR$/.idea/IBM-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou/leyou.iml" filepath="$PROJECT_DIR$/leyou/leyou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou/ly-client/ly-client.iml" filepath="$PROJECT_DIR$/leyou/ly-client/ly-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou/ly-client/ly-client-item/ly-client-item.iml" filepath="$PROJECT_DIR$/leyou/ly-client/ly-client-item/ly-client-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou/ly-common/ly-common.iml" filepath="$PROJECT_DIR$/leyou/ly-common/ly-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou/ly-gateway.iml" filepath="$PROJECT_DIR$/leyou/ly-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou/ly-item/ly-item.iml" filepath="$PROJECT_DIR$/leyou/ly-item/ly-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou/ly-pojo/ly-pojo.iml" filepath="$PROJECT_DIR$/leyou/ly-pojo/ly-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou/ly-pojo/ly-pojo-item/ly-pojo-item.iml" filepath="$PROJECT_DIR$/leyou/ly-pojo/ly-pojo-item/ly-pojo-item.iml" />
+    </modules>
+  </component>
+</project>
